@@ -1,2 +1,2 @@
 # Udemy-Course-Market-Analysis-Power-BI-
-This project analyzes Udemy data to identify what drives course success and popularity. It highlights top courses, key success factors, and trending learning domains. Using Power BI, raw data was turned into interactive dashboards that provide insights into online learning trends and support data-driven decisions.
+Uncovering the key drivers of Udemy course success is the focus of this analysis. It explores top-performing courses, success factors, and emerging learning trends across domains. Using Power BI, raw data was transformed into interactive dashboards that provide actionable insights into online learning patterns and support data-driven decision-making.
